@@ -1,0 +1,6 @@
+
+REACT_APP_KOVAN_URL_PROVIDER=https://kovan.infura.io/v3/YourKovanInfuraProjectKey
+REACT_APP_KOVAN_PROVIDER=wss://kovan.infura.io/ws/v3/YourKovanInfuraProjectKey
+REACT_APP_ETHERSCAN_API_KEY=YourApiKey
+
+Rename this file to .env and delete this line
